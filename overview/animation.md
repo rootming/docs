@@ -61,7 +61,7 @@ lv_anim_set_playback_time(&a, wait_time);
 /*Delay before playback. Default is 0 (disabled) [ms]*/
 lv_anim_set_playback_delay(&a, wait_time);
 
-/*Number of repetitions. Default is 1.  LV_ANIM_REPEAT_INFINIT for infinite repetition*/
+/*Number of repetitions. Default is 1.  LV_ANIM_REPEAT_INFINITE for infinite repetition*/
 lv_anim_set_repeat_count(&a, wait_time);
 
 /*Delay before repeat. Default is 0 (disabled) [ms]*/
